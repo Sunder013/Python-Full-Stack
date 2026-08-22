@@ -64,6 +64,16 @@ elif pizza == 200:
 else:
     print("item not available")'''
 
+#in, tuple, set and dictionary in loops
+#for,while,range,break,continue,pass
+#for loop()
+a = [10,20,30,40,50]
+for i in a:
+    print(i)
+
+
+
+
 
 
 
